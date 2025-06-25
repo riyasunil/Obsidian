@@ -13,31 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About Diffusion Models/Diffusion models explained.md",
+                "file": "2025-06-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diffusion models explained"
+              "title": "2025-06-25"
             }
-          }
-        ]
-      },
-      {
-        "id": "053267bc15c71c0d",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "62db12c64928839d",
+            "id": "8cb192f2df6aa982",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Message Queues.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Message Queues"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b25df2cc69c377e9",
+  "active": "8cb192f2df6aa982",
   "lastOpenFiles": [
+    "2025-06-25.md",
+    "Message Queues.md",
     "About Diffusion Models/Diffusion models explained.md",
     "About Diffusion Models",
     "remote",
